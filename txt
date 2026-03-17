@@ -1,0 +1,3 @@
+host = redis-11255.crce283.ap-south-1-2.ec2.cloud.redislabs.com
+port = 11255
+password = 6SJelPTy4f1Jx3rEvl6NDMymIwfRmFqd
